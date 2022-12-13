@@ -30,9 +30,9 @@ This project aims to build a web scraper, using Python with BeautifulSoup, to pu
 
 ## Repository overview / structure
 
-├── README.md
-├── REMAX_ARG_Web_scraper.py (web scraper code)
-├── Real_estate_ARG.csv (sample output file for "Apartments" nationwide)
+├── README.md\
+├── REMAX_ARG_Web_scraper.py (web scraper code)\
+├── Real_estate_ARG.csv (sample output file for "Apartments" nationwide)\
 
 ## Running instructions
 
