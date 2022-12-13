@@ -32,7 +32,7 @@ This project aims to build a web scraper, using Python with BeautifulSoup, to pu
 
 ├── README.md\
 ├── REMAX_ARG_Web_scraper.py (web scraper code)\
-├── Real_estate_ARG.csv (sample output file for "Apartments" nationwide)\
+├── Real_estate_ARG.csv (sample output file for "Apartments" nationwide)
 
 ## Running instructions
 
@@ -40,7 +40,7 @@ This project aims to build a web scraper, using Python with BeautifulSoup, to pu
 
 To test and run this script, please:
 
-    * Import the file "REMAX_ARG_Web_scraper.py" to your favourite integrated development environment (IDE) supporting Python
-    * Go into the REMAX website (https://www.remax.com.ar) and do a search for the properties of interest
-    * Copy the obtained URL and paste it in the ".py" file. Line is commented with explanations
-    * Run the entire script
+- Import the file "REMAX_ARG_Web_scraper.py" to your favourite integrated development environment (IDE) supporting Python
+- Go into the REMAX website (https://www.remax.com.ar) and do a search for the properties of interest
+- Copy the obtained URL and paste it in the ".py" file. Line is commented with explanations
+- Run the entire script
